@@ -28,4 +28,4 @@ THEN  you  can save my initials and score
 ![Screenshot3](./images/screenshot3.png)
 
 [github repo](https://github.com/zohamumtaz/code-quiz)  
-[Deployedlink]()
+[Deployed link](https://zohamumtaz.github.io/code-quiz/.)
