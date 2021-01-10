@@ -27,5 +27,5 @@ THEN  you  can save my initials and score
 ![Screenshot2](./images/screenshot2.png)
 ![Screenshot3](./images/screenshot3.png)
 
-[applicationlink]()
+[github repo](https://github.com/zohamumtaz/code-quiz)  
 [Deployedlink]()
